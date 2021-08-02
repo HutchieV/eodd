@@ -1,26 +1,14 @@
 ---
-author: Katheryn Fox
-title: About Me
-date: 2021-07-15
+author: Prewired.org
+title: About the Emporium
+date: 2021-08-02
 description:
-keywords: ["about-us", "about-hugo", "contact"]
+keywords: ["about", "eodd", "emporium"]
 type: about
 ---
 
-Written in Go, Hugo is an open source static site generator available under the [Apache Licence 2.0.](https://github.com/gohugoio/hugo/blob/master/LICENSE) Hugo supports TOML, YAML and JSON data file types, Markdown and HTML content files and uses shortcodes to add rich content. Other notable features are taxonomies, multilingual mode, image processing, custom output formats, HTML/CSS/JS minification and support for Sass SCSS workflows.
+The **Emporium of Digital Delights** was a hackathon run by Prewired in 2021. Due to the ongoing COVID-19 pandemic, Prewired switched out its usual summer hackathon in CodeBase for a longer event which ran May - July. This event consisted of three, two-week long *sprints* which could each be attended as their own hackathon.
 
-Hugo makes use of a variety of open source projects including:
+The event was facilitated by Prewired's talented mentors primarily across Discord. Each sprint would begin with welcoming both new and returning attendees to the Prewired Discord Server, breaking the ice like any hackathon, before grouping attendees together by their preferred challenge.
 
-- https://github.com/yuin/goldmark
-- https://github.com/alecthomas/chroma
-- https://github.com/muesli/smartcrop
-- https://github.com/spf13/cobra
-- https://github.com/spf13/viper
-
-Hugo is ideal for blogs, corporate websites, creative portfolios, online magazines, single page applications or even a website with thousands of pages.
-
-Hugo is for people who want to hand code their own website without worrying about setting up complicated runtimes, dependencies and databases.
-
-Websites built with Hugo are extremely fast, secure and can be deployed anywhere including, AWS, GitHub Pages, Heroku, Netlify and any other hosting provider.
-
-Learn more and contribute on [GitHub](https://github.com/gohugoio).
+Prewired's summer hackathons usually have a theme, but this year we decided to create a number of challenges which ranged from Generative Art to 3D Game Design. Each challenge had one or more associated Open Badges, which would be awarded to attendees for finishing the challenge.
