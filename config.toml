@@ -1,0 +1,53 @@
+theme = "blist"
+languageCode = "en-US"
+baseurl = "https://blist.vercel.app"
+title = "Prewired++"
+
+[params]
+  description = "Prewired Emporium of Digital Delights project showcase"
+  name = "Prewired++"
+  
+  # Enable the darkmode toggle in header
+  darkModeToggle = false
+  
+  # Enable search in header
+  enableSearch = true
+
+  # Custom copyright - optional
+  copyright = "Prewired is a Scottish Charity, SC047780 | © 2021 Prewired. Powered by Hugo & Blist. "
+  favicon = "favicon-32x32.png"
+
+  # Color for the intro details and social links block, not applicable for dark mode
+  # Supported values: Any color from TailwindCSS default colors
+  # Reference: https://tailwindcss.com/docs/customizing-colors
+  ascentColor = "bg-eodd-cream"
+
+[params.homepage]
+  title = "The Emporium of Digital Delights"
+  description = "Prewired's online hackathon"
+  photo = "/logo-colour-horizontal-large.png"
+
+[params.homepage.social]
+  title = "Social"
+  description = "Follow us on Twitter for event updates, or check out our GitHub to see how we create websites like this!"
+  twitter = "https://twitter.com/prewired/"
+  linkedin = "https://linkedin.com/company/prewired/"
+  github = "https://github.com/prewired/"
+
+[[menu.main]]
+  name = "About EoDD"
+  url = "/about"
+
+[build]
+  writeStats = true
+
+[outputs]
+  home = ["HTML", "RSS", "JSON"]
+
+# syntax highlight settings
+[markup]
+  [markup.highlight]
+    style = "dracula"
+  [markup.goldmark.renderer]
+    # Enable to include inline HTML
+    unsafe = true
