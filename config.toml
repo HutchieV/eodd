@@ -1,6 +1,6 @@
 theme = "blist"
 languageCode = "en-US"
-baseurl = "https://blist.vercel.app"
+baseurl = "https://eodd.prewired.org"
 title = "Prewired++"
 
 [params]
