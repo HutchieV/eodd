@@ -22,11 +22,12 @@ title = "Prewired EoDD"
   # Reference: https://tailwindcss.com/docs/customizing-colors
   ascentColor = "bg-prewired-cream-light"
   backgroundColour = "bg-prewired-cream"
+  footerColour = "bg-prewired-orange"
 
 [params.homepage]
   title = "Welcome to the Emporium of Digital Delights!"
   description = "A showcase of projects developed during Prewired's 2021 hackathon, from May - July"
-  photo = "/logo-colour.png"
+  photo = "/logo-colour-horizontal-large.png"
 
 [params.homepage.social]
   title = "Social"
