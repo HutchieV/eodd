@@ -1,4 +1,4 @@
 ---
-author: Prewired.org
-title: Projects
+author: "Prewired"
+title: "Projects"
 ---
