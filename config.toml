@@ -2,6 +2,7 @@ theme = "blist"
 languageCode = "en-US"
 baseurl = "https://eodd.prewired.org"
 title = "Prewired EoDD"
+enableEmoji = true
 
 [params]
   description = "Prewired Emporium of Digital Delights project showcase"
