@@ -9,9 +9,12 @@
       "em",
       "footer",
       "h1",
+      "h2",
       "head",
       "header",
+      "hr",
       "html",
+      "iframe",
       "img",
       "input",
       "li",
@@ -27,7 +30,13 @@
       "span",
       "strong",
       "svg",
+      "table",
+      "tbody",
+      "td",
+      "th",
+      "thead",
       "title",
+      "tr",
       "ul"
     ],
     "classes": [
@@ -146,6 +155,8 @@
       "transition-colors",
       "w-full"
     ],
-    "ids": null
+    "ids": [
+      "challenge-"
+    ]
   }
 }
