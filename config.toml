@@ -1,7 +1,7 @@
 theme = "blist"
 languageCode = "en-US"
 baseurl = "https://eodd.prewired.org"
-title = "Prewired EoDD"
+title = "Prewired++ Emporium"
 enableEmoji = true
 
 [params]
@@ -27,7 +27,7 @@ enableEmoji = true
 
 [params.homepage]
   title = "Welcome to the Emporium of Digital Delights!"
-  description = "A showcase of projects developed during Prewired's 2021 hackathon"
+  description = "Projects developed during the Prewired++ 2021 hackathon"
   photo = "/logo-colour-horizontal-large.png"
 
 [params.homepage.social]
