@@ -1,15 +1,15 @@
 ---
 author: "Prewired"
 title: "Mono Audio: SoundShaper"
-date: 2021-08-03
-description: "EoDD Sprint 3: Mono Audio"
+date: 2021-08-07
+description: "Sprint 3 - Mono Audio"
 tags: ["mono audio", "generative art", "sprint 3"]
 thumbnail: /project_img/mono-audio-1.png
 ---
 
 Challenge | Sprint
 --- | ---
-Pure Data & Generative Art | 3
+[Generative Art](https://plusplus.prewired.org/challenges/generative-art/) | 3
 
 Team Member | Role
 --- | ---

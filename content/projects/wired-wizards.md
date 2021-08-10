@@ -1,15 +1,15 @@
 ---
 author: "Prewired"
 title: "Wired Wizards: Dreamscape"
-date: 2021-08-03
-description: "EoDD Sprint 3: Wired Wizards"
+date: 2021-08-07
+description: "Sprint 3 - Wired Wizards"
 tags: ["wired wizards", "2d game", "sprint 3"]
 thumbnail: /project_img/wired-wizards-1.png
 ---
 
 Challenge | Sprint
 --- | ---
-2D Game | 3
+[2D Game](https://plusplus.prewired.org/challenges/build-a-2d-platformer/) | 3
 
 Team Member | Role
 --- | ---

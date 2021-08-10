@@ -1,15 +1,15 @@
 ---
 author: "Prewired"
 title: "Apple Fish Industries: OverWhole"
-date: 2021-08-03
-description: "EoDD Sprint 3: Apple Fish Industries"
+date: 2021-08-07
+description: "Sprint 3 - Apple Fish Industries"
 tags: ["apple fish industries", "3d game", "sprint 3"]
 thumbnail: /project_img/apple-fish-industries-1.png
 ---
 
 Challenge | Sprint
 --- | ---
-3D Game | 3
+[3D Game](https://plusplus.prewired.org/challenges/build-a-3d-game/) | 3
 
 Team Member | Role
 --- | ---

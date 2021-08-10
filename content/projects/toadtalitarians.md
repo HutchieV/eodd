@@ -1,15 +1,15 @@
 ---
 author: "Prewired"
 title: "Toadtalitarians: Space Toadz"
-date: 2021-08-03
-description: "EoDD Sprint 1: Toadtalitarians"
+date: 2021-08-09
+description: "Sprint 1 - Toadtalitarians"
 tags: ["toadtalitarians", "3d game", "sprint 1"]
 thumbnail: /project_img/toadtalitarians-3.png
 ---
 
 Challenge | Sprint
 --- | ---
-3D Game | 1 
+[3D Game](https://plusplus.prewired.org/challenges/build-a-3d-game/) | 1 
 
 Team Member | Role
 --- | ---

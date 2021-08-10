@@ -22,12 +22,12 @@ enableEmoji = true
   # Supported values: Any color from TailwindCSS default colors
   # Reference: https://tailwindcss.com/docs/customizing-colors
   ascentColor = "bg-eodd-green"
-  backgroundColour = "bg-eodd-cream"
+  backgroundColour = "bg-white"
   footerColour = "bg-prewired-orange"
 
 [params.homepage]
   title = "Welcome to the Emporium of Digital Delights!"
-  description = "A showcase of projects developed during Prewired's 2021 hackathon, from May - July"
+  description = "A showcase of projects developed during Prewired's 2021 hackathon"
   photo = "/logo-colour-horizontal-large.png"
 
 [params.homepage.social]

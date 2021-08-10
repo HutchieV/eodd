@@ -12,3 +12,5 @@ The **Emporium of Digital Delights** was a hackathon run by Prewired in 2021. Du
 The event was facilitated by Prewired's talented mentors primarily across Discord. Each sprint would begin with welcoming both new and returning attendees to the Prewired Discord Server, breaking the ice like any hackathon, before grouping attendees together by their preferred challenge.
 
 Prewired's summer hackathons usually have a theme, but this year we decided to create a number of challenges which ranged from Generative Art to 3D Game Design. Each challenge had one or more associated Open Badges, which would be awarded to attendees for finishing the challenge.
+
+More information about the Emporium, including the badges, challenges and the team that made it possible, is available here: https://plusplus.prewired.org/ 

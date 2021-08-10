@@ -1,15 +1,15 @@
 ---
 author: "Prewired"
 title: "Ctrl Freaks: Beat Shift"
-date: 2021-08-03
-description: "EoDD Sprint 2: Ctrl Freaks"
+date: 2021-08-08
+description: "Sprint 2 - Ctrl Freaks"
 tags: ["ctrl freaks", "2d game", "sprint 2"]
 thumbnail: /project_img/ctrl-freaks-2.png
 ---
 
 Challenge | Sprint
 --- | ---
-3D Game | 2
+[3D Game](https://plusplus.prewired.org/challenges/build-a-3d-game/) | 2
 
 Team Member | Role
 --- | ---

@@ -1,15 +1,15 @@
 ---
 author: "Prewired"
 title: "Star Assassins"
-date: 2021-08-03
-description: "EoDD Sprint 2: Star Assassins"
+date: 2021-08-08
+description: "Sprint 2 - Star Assassins"
 tags: ["star assassins", "2d game", "sprint 2"]
 thumbnail: /project_img/star-assassins-2.png
 ---
 
 Challenge | Sprint
 --- | ---
-2D Games | 2
+[2D Games](https://plusplus.prewired.org/challenges/build-a-2d-platformer-scratch/) | 2
 
 Team Member | Project
 --- | ---

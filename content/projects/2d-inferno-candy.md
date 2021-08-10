@@ -1,15 +1,15 @@
 ---
 author: "Prewired"
 title: "2D Inferno Candy"
-date: 2021-08-03
-description: "EoDD Sprint 1: 2D Inferno Candy"
+date: 2021-08-09
+description: "Sprint 1 - 2D Inferno Candy"
 tags: ["2d inferno candy", "2d game", "sprint 1"]
 thumbnail: /project_img/2d-inferno-candy-1.png
 ---
 
 Challenge | Sprint
 --- | ---
-2D Game | 1 
+[2D Game](https://plusplus.prewired.org/challenges/build-a-2d-platformer-scratch/) | 1 
 
 Team Member | Role
 --- | ---
