@@ -26,8 +26,8 @@ enableEmoji = true
   footerColour = "bg-prewired-orange"
 
 [params.homepage]
-  title = "Welcome to the Emporium of Digital Delights!"
-  description = "Projects developed during the Prewired++ 2021 hackathon"
+  # title = "WELCOME TO THE EMPORIUM OF DIGITAL DELIGHTS!"
+  description = "PROJECTS DEVELOPED DURING THE PREWIRED++ 2021 HACKATHON"
   photo = "/logo-colour-horizontal-large.png"
 
 [params.homepage.social]

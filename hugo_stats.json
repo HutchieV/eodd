@@ -77,6 +77,7 @@
       "hover:text-gray-800",
       "inline-block",
       "intro-banner",
+      "intro-title",
       "items-center",
       "justify-around",
       "justify-between",
@@ -134,6 +135,9 @@
       "text-3xl",
       "text-4xl",
       "text-center",
+      "text-eodd-blue",
+      "text-eodd-cream",
+      "text-eodd-orange",
       "text-gray-500",
       "text-lg",
       "text-shadow",
@@ -142,6 +146,7 @@
       "text-xl",
       "top-0",
       "transition-colors",
+      "uppercase",
       "w-full"
     ],
     "ids": null
